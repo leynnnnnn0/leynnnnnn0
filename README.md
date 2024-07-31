@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning android development using java.
 - 💞️ I’m looking to collaborate on anyone
 - 📫 How to reach me? You can message me on facebook Nathaniel Alvarez
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leynnnnnn0&show_icons=true)
 
