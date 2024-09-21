@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nathaniel
 - 👀 I’m interested in learning programming languages especiall the languages for web development.
 - 🌱 I’m currently learning android development using java.
-- 💞️ I’m looking to collaborate on anyone
+- 💞️ I’m looking to collaborate with anyone
 - 📫 How to reach me? You can message me on facebook Nathaniel Alvarez
 
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leynnnnnn0&show_icons=true)
